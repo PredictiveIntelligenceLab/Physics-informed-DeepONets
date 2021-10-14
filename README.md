@@ -9,12 +9,21 @@ Deep operator networks (DeepONets) are receiving increased  attention thanks to 
 # Citation
 
 @article{wang2021learning,
+
 author = {Sifan Wang  and Hanwen Wang  and Paris Perdikaris },
+
 title = {Learning the solution operator of parametric partial differential equations with physics-informed {DeepONets}},
+
 journal = {Science Advances},
+
 volume = {7},
+
 number = {40},
+
 pages = {eabi8605},
+
 year = {2021},
+
 doi = {10.1126/sciadv.abi8605}
+
 }
